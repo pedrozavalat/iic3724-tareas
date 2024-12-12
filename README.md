@@ -1,8 +1,10 @@
 # Tareas del ramo Reconocimiento de Patrones (IIC3724)
+Fecha: Primer semestre, 2024. 
 
 Este repositorio contiene las tareas realizadas en el marco del ramo **Reconocimiento de Patrones** (IIC3724).
 
 Cada tarea incluye su informe, código fuente y los resultados obtenidos, organizados en su respectivo directorio.
+
 
 ## Tabla de Tareas
 
